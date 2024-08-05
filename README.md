@@ -11,3 +11,5 @@ A script that automatically create's a github action to deploy the current repo 
 ```
 curl https://raw.githubusercontent.com/sauercrowd/fly-github-actions-setup/main/setup.sh | bash -
 ```
+
+If you want something easier to remember - https://fly-deploy.jonas.foo redirects to the contents of `setup.sh` 
